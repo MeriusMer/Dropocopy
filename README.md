@@ -1,4 +1,4 @@
-# CopyDropy
+# Dropocopy
 
 
 v1.6
